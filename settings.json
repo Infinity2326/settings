@@ -1,0 +1,48 @@
+{
+  "editor.smoothScrolling": true,
+  "workbench.startupEditor": "newUntitledFile",
+  "breadcrumbs.enabled": false,
+  "files.defaultLanguage": "html",
+  "editor.fontSize": 18,
+  "editor.linkedEditing": true,
+  "editor.guides.bracketPairs": "active",
+  "workbench.iconTheme": "vscode-icons",
+  "workbench.colorTheme": "Andromeda",
+  "liveServer.settings.donotShowInfoMsg": true,
+  "git.autofetch": true,
+  "explorer.confirmDragAndDrop": false,
+  "vsicons.dontShowNewVersionMessage": true,
+  "git.enableSmartCommit": true,
+  "liveServer.settings.donotVerifyTags": true,
+  "liveServer.settings.ignoreFiles": [
+    ".vscode/**",
+    "**/*.scss",
+    "**/*.sass",
+    "**/*.ts"
+  ],
+  "[python]": {
+    "editor.formatOnType": true
+  },
+  "cSpell.language": "en,ru",
+  "emmet.useInlineCompletions": true,
+  "explorer.confirmDelete": false,
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "tabnine.experimentalAutoImports": true,
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "settingsSync.ignoredExtensions": [],
+  "security.workspace.trust.untrustedFiles": "open",
+  "cSpell.userWords": ["reduxjs", "toastify"],
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "prettier.semi": false,
+  "editor.unicodeHighlight.allowedLocales": {
+    "ru": true
+  },
+  "launch": {
+    "configurations": [],
+    "compounds": []
+  }
+}
